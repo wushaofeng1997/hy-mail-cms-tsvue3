@@ -6,4 +6,6 @@ const store = createStore({
   }
 })
 
+console.log('呵呵呵呵')
+
 export default store
